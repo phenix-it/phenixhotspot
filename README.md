@@ -1,1 +1,1 @@
-# phenixhotspot.github.io
+# PhenixSPOT
